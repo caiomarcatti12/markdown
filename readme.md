@@ -9,7 +9,7 @@ A idéia aqui é esclarecer o que é um markdown, ver as suas vantagens e o porq
 
 ## Na prática
 - [Como fazer um bom readme](02-como-fazer-um-bom-readme.md)
-- [Sintaxe](03-sintaxe.md)
+- [Imagens](03-imagens.md)
 - [Alinhamentos de imagem](04-alinhamentos-de-imagem.md)
 - [Estilo de texto](05-estilo-de-texto.md)
 - [Tabelas](06-tabelas.md)
